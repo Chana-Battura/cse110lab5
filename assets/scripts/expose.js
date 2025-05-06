@@ -29,7 +29,6 @@ function init() {
     }
     
     hornAudio.volume = vol/100.0;
-    console.log(hornAudio.volume);
   });
 
   playBtn.addEventListener("click", (event) => {
