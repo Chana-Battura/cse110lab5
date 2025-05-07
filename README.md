@@ -1,6 +1,13 @@
 # Lab 5 - Starter
 Name: Charan Battula
 
+Expose:
+https://chana-battura.github.io/cse110lab5/exposee.html
+
+Explore:
+https://chana-battura.github.io/cse110lab5/explore.html
+
+
 Answer to Question One:
 I do not think a unit test would be all that is needed for a message feature test.  The message feature has way too many moving components to be covered in one test.  Each component could be tested but the entire thing needs numerous rounds of unit testing
 
